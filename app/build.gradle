@@ -42,6 +42,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
 //    implementation project(':Library')
-    implementation 'com.github.Bellxu:PermissionX:b07248ad9b'
+    implementation 'com.github.Bellxu:PermissionX:1.1'
 
 }
